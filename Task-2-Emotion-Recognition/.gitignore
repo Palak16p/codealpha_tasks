@@ -1,0 +1,11 @@
+# Python virtual environment
+.mlenv/
+
+# RAVDESS dataset
+Audio_Speech_Actors_01-24_16k/
+Audio_Speech_Actors_01-24_16k.zip
+
+# Backup and temporary test files
+duplicate_emotion_recognition.ipynb
+pandas_test.ipynb
+speech_test.py
